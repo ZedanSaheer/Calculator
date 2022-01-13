@@ -2,4 +2,4 @@
 
 I made a calculator using html ,CSS and JavaScript
 
-![screenshot](Document1.png)
+![screenshot](Document (1).png)
